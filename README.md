@@ -1,4 +1,4 @@
-# yourblog
+# YOUR BLOG
 A MERN Stack Blog Application.
 Here is a Full Stack Blog Application where users can Create, Read, Update and Delete the Blog. 
 Authentication is also provided using Login and Register options. 
