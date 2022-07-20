@@ -1,0 +1,44 @@
+.header {
+  margin-left: 100px;
+    margin-right: 100px;
+}
+
+.headerTitles {
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.headerTitleSm {
+  color: #00676D;
+  position: absolute;
+  top: 12%;
+  font-size: 20px;
+}
+
+.headerTitleLg {
+  color: #00676D;
+    font-weight:lighter;
+    position: absolute;
+    top: 16%;
+    font-size: 100px;
+}
+
+.headerImg{
+  width: 100%;
+  height: 650px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+  color: white;
+}
+
+
+
+
